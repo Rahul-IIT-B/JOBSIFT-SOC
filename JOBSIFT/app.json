@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "jobsift",
+    "slug": "jobsift",
+    "extra": {
+      "eas": {
+        "projectId": "ff1071f7-3fbe-4ae9-9b4d-11fa4ba80969"
+      }
+    },
+    "android": {
+      "package": "com.rahuliitb.jobsift"
+    }
+  }
+}
